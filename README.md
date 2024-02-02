@@ -3,7 +3,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="350" src="https://github.com/CinderellaKuru/CinderellaKuru/assets/151408907/fdac4a21-d6c7-4d63-b7f9-3ac58e51404d"  />
+  <img height="350" src="https://github.com/CinderellaKuru/CinderellaKuru/assets/151408907/98697cab-88c6-4aa7-9626-b4c6279b9446"  />
 </div>
 
 ###
@@ -38,7 +38,7 @@
   <a href="https://discordapp.com/users/1159264915983450122" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="35" alt="discord logo"  />
   </a>
-    <a href="[https://discordapp.com/users/1159264915983450122](https://twitter.com/CinderellaKuru)" target="_blank">
+    <a href="https://twitter.com/CinderellaKuru" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=Twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=flat" height="35" alt="twitter logo"  />
   </a>
 </div>
