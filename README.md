@@ -1,15 +1,13 @@
 <h1 align="center">Welcome To My Lab</h1>
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/cinderellakuru/count.svg?"  />
+</div>
+
 <br clear="both">
 
 <div align="center">
-  <img height="350" src="https://github.com/CinderellaKuru/CinderellaKuru/assets/151408907/98697cab-88c6-4aa7-9626-b4c6279b9446"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/cinderellakuru/count.svg?"  />
+  <img height="350" src="https://github.com/CinderellaKuru/CinderellaKuru/assets/151408907/ccfddb90-a51e-4b88-b682-0e5deea13ab6"/>
 </div>
 
 ###
