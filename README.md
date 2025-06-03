@@ -3,6 +3,7 @@
 </p>
 
 <hr>
+<br>
 
 <p align="center">
   <img src="./Resources/Badges/csharp.svg" alt="C# Badge">
