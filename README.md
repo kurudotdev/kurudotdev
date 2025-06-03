@@ -1,8 +1,9 @@
-<p align="center">
-  <img src="./Resources/kProfile/header.svg" alt="Header">
+ <p align="center">
+  <img src="./Resources/kProfile/header.svg" alt="Header" width="300">
 </p>
 
 <hr>
+
 <br>
 
 <p align="center">
